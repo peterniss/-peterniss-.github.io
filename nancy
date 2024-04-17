@@ -1,0 +1,7 @@
+echo "# -peterniss-.github.io" >> README.md 
+git init 
+git add README.md 
+git commit -m “第一次提交” 
+git分支 -M main 
+git Remote add origin https://github.com/peterniss/ -peterniss-.github.io.git
+ git push -u origin main
